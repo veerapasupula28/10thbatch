@@ -24,7 +24,7 @@ export default function Contact() {
         <div className='col-md-6 text-left'>
         <h2 className='header-2'> Address </h2>
         <div>
-          <h3> #101, sln building</h3>
+          <h3> #200, sln building</h3>
           <h3> Ram Nagar </h3>
           <h3> Anantapur </h3>
           <h3> Andhra Pradesh </h3>

@@ -8,7 +8,7 @@ export default function Success() {
         </div>
         <div className='text-center mb-5 mt-5'> 
         <h2> Your Order Success </h2>
-        <h4> 4-5 Working days React Your Order</h4>
+        <h4> 7-8 Working days React Your Order</h4>
         </div>
     </div>
   )
